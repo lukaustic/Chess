@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\lule\desktop\chess\chess\main.cpp(1281): warning C4715: 'mogucPotez': not all control paths return a value
+  Chess.vcxproj -> C:\Users\Lule\Desktop\Chess\x64\Debug\Chess.exe
